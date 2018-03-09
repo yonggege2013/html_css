@@ -1,0 +1,33 @@
+/*元素选择器*/
+div{
+	
+	color: yellow;
+}
+p{
+	color: blue;
+}
+body{
+	/*background-color:#f00;
+	background: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1521096169&di=e2125e0ee16e3e852495371bf4fd0511&imgtype=jpg&er=1&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F2017-10-14%2F59e1bb9f01314.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-attachment: local;*/
+
+    background:#f00 url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1521096169&di=e2125e0ee16e3e852495371bf4fd0511&imgtype=jpg&er=1&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F2017-10-14%2F59e1bb9f01314.jpg")
+    no-repeat 50% 50% local
+
+
+    /*borders 边线*/
+
+
+}
+
+/*class选择器*/
+.nav{
+	color: rgb(255,0,0);
+	background-color: #0f0;
+}
+*{
+
+    /*repeat-x,repeat-y*/
+}
